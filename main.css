@@ -92,6 +92,11 @@ h1 {
     width: 50%;
 }
 
+.faq-heading {
+  display:flex;
+  flex-direction: row;
+}
+
 .footer p {
     color: hsl(292, 42%, 14%);
 }
