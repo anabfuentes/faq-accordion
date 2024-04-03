@@ -87,6 +87,19 @@ h1 {
   display:flex;
   flex-direction: row;
   align-items: center;
+  padding: 0 15px;
+}
+
+.faq-heading h1{
+  padding-left: 25px;
+}
+
+.faq-dropdown {
+  padding: 15px;
+}
+
+.faq-dropdown-header {
+  padding-bottom: 15px;
 }
 
 .footer {
