@@ -100,6 +100,8 @@ h1 {
 
 .faq-dropdown-header {
   padding-bottom: 15px;
+  display:flex;
+  flex-direction: row;
 }
 
 .footer {
