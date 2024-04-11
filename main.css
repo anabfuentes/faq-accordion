@@ -125,4 +125,16 @@ h1 {
     background-repeat: no-repeat;
   }
 
+  .faq-accordion {
+    width: 50%;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
+  }
+
 }
