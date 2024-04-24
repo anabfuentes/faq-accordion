@@ -122,6 +122,11 @@ button {
     color: hsl(292, 42%, 14%);
 }
 
+.open {
+  display: none;
+  
+}
+
 /*Desktop*/
 @media (min-width: 768px) {
 
